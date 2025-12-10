@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "C.h.a.o.s.m.y.t.h.",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-10T05:20:05.207311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C.h.a.o.s.m.y.t.h",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_C.h.a.o.s.m.y.t.h_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C.h.a.o.s.m.y.t.h.",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_C.h.a.o.s.m.y.t.h._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C.h.a.o.s.m.y.t.h",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_C.h.a.o.s.m.y.t.h_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C.h.a.o.s.m.y.t.h.",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_C.h.a.o.s.m.y.t.h._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C.h.a.o.s.m.y.t.h.",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_C.h.a.o.s.m.y.t.h._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - C.h.a.o.s.m.y.t.h.",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_ONE_OK_ROCK_-_C.h.a.o.s.m.y.t.h._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "C.h.a.o.s.m.y.t.h.",
+      "artist": "YESUNG",
+      "has_synced": false,
+      "path": "select/07_C.h.a.o.s.m.y.t.h._YESUNG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C.h.a.o.s.m.y.t.h.",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_C.h.a.o.s.m.y.t.h._ONE_OK_ROCK.txt"
+    }
+  ]
+}
